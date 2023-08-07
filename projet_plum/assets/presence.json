@@ -1,0 +1,23 @@
+[
+    {
+      "week": "0",
+      "classeId": "rrrrrr",
+      "coursesId": "rrrrr",
+      "presences": [
+        {
+          "student": {
+            "_id": "646f39deff52115d2776081d",
+            "email": "apprenant@gmail.com",
+            "role": "STUDENT",
+            "firstName": "Apprenant",
+            "lastName": "Apprenant"
+          },
+          "lundi": {"date": null, "presence": false, "holiday": true},
+          "mardi": {"date": null, "presence": false, "holiday": true},
+          "mercredi": {"date": null, "presence": false, "holiday": true},
+          "jeudi": {"date": null, "presence": false, "holiday": true},
+          "vendredi": {"date": null, "presence": false, "holiday": true}
+        }
+      ]
+    }
+  ]
